@@ -28,7 +28,7 @@ import matplotlib.pyplot as plt
 
 
 # Load the dataset
-df = pd.read_csv("C:/Users/SIRI SUJALA/Downloads/winequality-red.csv")
+df = pd.read_csv("https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009?select=winequality-red.csv")
 
 
 # # DATA EXPLORATION & CLEANING
